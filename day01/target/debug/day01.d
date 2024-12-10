@@ -1,0 +1,1 @@
+C:\Users\User\OneDrive\ -\ Technische\ Hochschule\ Deggendorf\Desktop\advert_of_code\day01\target\debug\day01.exe: C:\Users\User\OneDrive\ -\ Technische\ Hochschule\ Deggendorf\Desktop\advert_of_code\day01\src\main.rs
